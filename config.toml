@@ -53,13 +53,13 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "收银软件技术站"
+description = ""
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.no]
-title = "Goldydocs"
+title = "收银软件、免费收银软件、餐饮收银软件、超市收银软件、免费POS收银软件、电脑收银系统、ipad收银系统、安卓收银系统、餐饮收银系统、超市收银系统、进销存管理系统,会员营销管理系统"
 description = "Docsy er operativsystem for skyen"
 languageName ="Norsk"
 contentDir = "content/no"
